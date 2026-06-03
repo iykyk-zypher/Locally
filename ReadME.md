@@ -1,6 +1,6 @@
-# Miniblox Offline Local Server
+# Miniblox Local Server
 
-A standalone offline local server and client-patching proxy for [Miniblox](https://miniblox.io/). This allows you to host a local Miniblox server on `localhost` with flat world grass rendering, custom block physics, and fully working FPP (first-person) and TPP (third-person) cameras.
+A standalone local server and client-patching proxy for [Miniblox](https://miniblox.io/). This allows you to host a local Miniblox server on `localhost` with flat world.
 
 ---
 
